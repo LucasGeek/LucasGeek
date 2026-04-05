@@ -13,8 +13,8 @@
 
 # 👋 Olá, eu sou Lucas Albuquerque
 
-🚀 **Engenheiro Full Stack (16 anos)**
-💳 Construindo sistemas financeiros de alta escala
+🚀 **Engenheiro Full Stack (16 anos)**<br>
+💳 Construindo sistemas financeiros de alta escala<br>
 ⚡ Focado em performance, escalabilidade & sistemas distribuídos
 
 </div>
@@ -80,8 +80,9 @@ Hoje, projeto **arquiteturas escaláveis e orientadas a eventos** que operam sob
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=pt_BR)
 
@@ -254,8 +255,8 @@ Confiabilidade é inegociável.
 
 # 👋 Hey, I'm Lucas Albuquerque
 
-🚀 **Full Stack Engineer (16)**
-💳 Building high-scale financial systems
+🚀 **Full Stack Engineer (16)**<br>
+💳 Building high-scale financial systems<br>
 ⚡ Focused on performance, scalability & distributed systems
 
 </div>
@@ -321,8 +322,9 @@ Today, I design **scalable, event-driven architectures** that operate under extr
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true)
 
@@ -495,8 +497,8 @@ Reliability is non-negotiable.
 
 # 👋 Hola, soy Lucas Albuquerque
 
-🚀 **Ingeniero Full Stack (16)**
-💳 Construyendo sistemas financieros de alta escala
+🚀 **Ingeniero Full Stack (16)**<br>
+💳 Construyendo sistemas financieros de alta escala<br>
 ⚡ Enfocado en rendimiento, escalabilidad & sistemas distribuidos
 
 </div>
@@ -562,8 +564,9 @@ Hoy diseño **arquitecturas escalables y orientadas a eventos** que operan bajo 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=es)
 
