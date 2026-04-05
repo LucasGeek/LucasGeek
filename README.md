@@ -243,7 +243,6 @@ Confiabilidade é inegociável.
 </div>
 
 ---
----
 
 ## 🇺🇸 English
 
@@ -480,7 +479,6 @@ Reliability is non-negotiable.
 
 </div>
 
----
 ---
 
 ## 🇪🇸 Español
