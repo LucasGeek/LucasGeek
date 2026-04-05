@@ -80,9 +80,7 @@ Hoje, projeto **arquiteturas escaláveis e orientadas a eventos** que operam sob
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucasgeek&theme=radical&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=pt_BR)
 
@@ -322,9 +320,7 @@ Today, I design **scalable, event-driven architectures** that operate under extr
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucasgeek&theme=radical&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true)
 
@@ -564,9 +560,7 @@ Hoy diseño **arquitecturas escalables y orientadas a eventos** que operan bajo 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgeek&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucasgeek&theme=radical&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=es)
 
