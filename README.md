@@ -62,6 +62,10 @@ Hoje, projeto **arquiteturas escaláveis e orientadas a eventos** que operam sob
 **Mensageria**
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white)
+![AWS EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Dados**
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -299,6 +303,10 @@ Today, I design **scalable, event-driven architectures** that operate under extr
 **Streaming**
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white)
+![AWS EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Data**
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -536,6 +544,10 @@ Hoy diseño **arquitecturas escalables y orientadas a eventos** que operan bajo 
 **Mensajería**
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white)
+![AWS EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Service_Bus-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Datos**
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
