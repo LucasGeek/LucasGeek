@@ -80,8 +80,6 @@ Hoje, projeto **arquiteturas escaláveis e orientadas a eventos** que operam sob
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasgeek&theme=radical&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=pt_BR)
 
 </div>
@@ -320,8 +318,6 @@ Today, I design **scalable, event-driven architectures** that operate under extr
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasgeek&theme=radical&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true)
 
 </div>
@@ -559,8 +555,6 @@ Hoy diseño **arquitecturas escalables y orientadas a eventos** que operan bajo 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasgeek&theme=radical&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=es)
 
