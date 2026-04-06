@@ -84,7 +84,7 @@ Hoje, projeto **arquiteturas escaláveis e orientadas a eventos** que operam sob
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=pt_BR)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=pt)
 
 </div>
 
@@ -325,7 +325,7 @@ Today, I design **scalable, event-driven architectures** that operate under extr
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
@@ -566,7 +566,7 @@ Hoy diseño **arquitecturas escalables y orientadas a eventos** que operan bajo 
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgeek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=es)
 
 </div>
 
