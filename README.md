@@ -84,7 +84,7 @@ Hoje, projeto **arquiteturas escaláveis e orientadas a eventos** que operam sob
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=pt_BR)
+![Streak](https://streak-stats.demolab.com?user=boot-albuquerque&theme=radical&hide_border=true&locale=pt_BR)
 
 </div>
 
@@ -95,9 +95,9 @@ Hoje, projeto **arquiteturas escaláveis e orientadas a eventos** que operam sob
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -325,7 +325,7 @@ Today, I design **scalable, event-driven architectures** that operate under extr
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=boot-albuquerque&theme=radical&hide_border=true)
 
 </div>
 
@@ -336,9 +336,9 @@ Today, I design **scalable, event-driven architectures** that operate under extr
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -566,7 +566,7 @@ Hoy diseño **arquitecturas escalables y orientadas a eventos** que operan bajo 
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=lucasgeek&theme=radical&hide_border=true&locale=es)
+![Streak](https://streak-stats.demolab.com?user=boot-albuquerque&theme=radical&hide_border=true&locale=es)
 
 </div>
 
@@ -577,9 +577,9 @@ Hoy diseño **arquitecturas escalables y orientadas a eventos** que operan bajo 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación snake del gráfico de contribuciones" src="https://raw.githubusercontent.com/LucasGeek/LucasGeek/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación snake del gráfico de contribuciones" src="https://raw.githubusercontent.com/boot-albuquerque/boot-albuquerque/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
